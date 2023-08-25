@@ -46,6 +46,10 @@ example and can be further extended and customized based on specific use cases.
 
 Feel free to explore and experiment with the app, and if you have any questions or suggestions, please feel free to reach out.
 
+## Demo
+
+![schedule table](https://github.com/chloeNgo99/Langchain-App3/blob/main/Chatbox%20Demo.png)
+
 Happy exploring!
 
 Chloe
